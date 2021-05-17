@@ -1,0 +1,16 @@
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\bin\Debug\net5.0\Căutare Exponențială.exe
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\bin\Debug\net5.0\Căutare Exponențială.deps.json
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\bin\Debug\net5.0\Căutare Exponențială.runtimeconfig.json
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\bin\Debug\net5.0\Căutare Exponențială.runtimeconfig.dev.json
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\bin\Debug\net5.0\Căutare Exponențială.dll
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\bin\Debug\net5.0\ref\Căutare Exponențială.dll
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\bin\Debug\net5.0\Căutare Exponențială.pdb
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\Căutare Exponențială.csprojAssemblyReference.cache
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\Căutare Exponențială.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\Căutare Exponențială.AssemblyInfoInputs.cache
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\Căutare Exponențială.AssemblyInfo.cs
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\Căutare Exponențială.csproj.CoreCompileInputs.cache
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\Căutare Exponențială.dll
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\ref\Căutare Exponențială.dll
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\Căutare Exponențială.pdb
+C:\Users\covas\Source\Repos\Exponential-Search\Căutare Exponențială\obj\Debug\net5.0\Căutare Exponențială.genruntimeconfig.cache

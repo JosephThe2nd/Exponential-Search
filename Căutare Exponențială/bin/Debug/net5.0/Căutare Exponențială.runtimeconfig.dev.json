@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\covas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\covas\\.nuget\\packages"
+    ]
+  }
+}
